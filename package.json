@@ -43,7 +43,7 @@
   ],
   "dependencies": {
     "dargs": "~0.1.0",
-    "lodash": "~2.4.1",
+    "lodash": "~4.17.15",
     "async": "~0.7.0",
     "chalk": "~0.4.0",
     "semver": "~2.2.1"
